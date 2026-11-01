@@ -2,8 +2,6 @@
 
 **No interface, no problem.** Press the iPhone Action Button, say what you need, and an AI agent does the work and texts you back.
 
-Vera is a personal project. This repo shows how the voice pipeline is put together. It contains no personal data and no knowledge base, only the design, example configuration and blank templates.
-
 ## Why it exists
 
 Ideas die in the ten seconds it takes to unlock a phone, find an app and type. Most AI products answer that with one more app or one more gadget. Vera uses what is already in your hand, a button and a text thread.
