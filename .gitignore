@@ -1,0 +1,13 @@
+# Never commit personal state or a knowledge base
+session-id
+settings.json
+settings.local.json
+*.log
+*.jsonl
+.env
+.env.*
+kb/
+my-kb/
+.obsidian/
+.claude/
+.DS_Store
